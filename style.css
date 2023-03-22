@@ -1,0 +1,29 @@
+.fon {
+	background-image: url('main.jpg');
+	width: 100vw;
+	min-height: 100vh;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.zagolovok {
+	font-size: 40px;
+	text-align: center;
+	padding-top: 140px;
+	color: #11F256;
+	font: italic 4em "Fira Sans", serif;
+	padding-bottom: 40px;
+	font-weight: bold;
+}
+.foto {
+	width: 30vw;
+	padding: 20px;
+	max-height: 800px;
+}
+.foto1 {
+	width: 80vw;
+}
+.kartinki {
+	display: flex;
+	justify-content: center;
+	padding-top: 40px;
+}
