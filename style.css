@@ -40,3 +40,12 @@ figcaption {
 	text-align: center;
 
 }
+.konec {
+	font-size: 40px;
+	text-align: center;
+	padding-top: 40px;
+	color: #0EF86C;
+	font: italic 4em "Fira Sans", serif;
+	padding-bottom: 40px;
+	font-weight: bold;
+}
