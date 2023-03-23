@@ -1,9 +1,10 @@
 .fon {
 	background-image: url('main.jpg');
-	width: 100vw;
-	min-height: 100vh;
-	background-repeat: no-repeat;
+	
+	background-repeat: repeat;
 	background-attachment: fixed;
+	background-size: 100vw auto;
+
 }
 .zagolovok {
 	font-size: 40px;
@@ -20,10 +21,22 @@
 	max-height: 800px;
 }
 .foto1 {
-	width: 80vw;
+	max-width: 80vw;
 }
 .kartinki {
 	display: flex;
+	flex-wrap: wrap;
 	justify-content: center;
 	padding-top: 40px;
+}
+.ramka {
+	border: 10px solid #ccc; /* рамка */
+	background-color: #f1f0f0; /* цвет фона */
+	margin: 20px;
+	align-items: center;
+
+}
+figcaption {
+	text-align: center;
+
 }
