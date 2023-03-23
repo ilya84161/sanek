@@ -11,7 +11,7 @@
 	text-align: center;
 	padding-top: 140px;
 	color: #11F256;
-	font: italic 4em "Fira Sans", serif;
+	font: italic 3em "Fira Sans", serif;
 	padding-bottom: 40px;
 	font-weight: bold;
 }
@@ -45,7 +45,7 @@ figcaption {
 	text-align: center;
 	padding-top: 40px;
 	color: #0EF86C;
-	font: italic 4em "Fira Sans", serif;
+	font: italic 2em "Fira Sans", serif;
 	padding-bottom: 40px;
 	font-weight: bold;
 }
