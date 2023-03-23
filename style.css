@@ -48,4 +48,5 @@ figcaption {
 	font: italic 2em "Fira Sans", serif;
 	padding-bottom: 40px;
 	font-weight: bold;
+	word-break: break-all;
 }
