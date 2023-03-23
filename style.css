@@ -14,6 +14,9 @@
 	font: italic 3em "Fira Sans", serif;
 	padding-bottom: 40px;
 	font-weight: bold;
+	-moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
 }
 .foto {
 	width: 30vw;
@@ -48,5 +51,7 @@ figcaption {
 	font: italic 2em "Fira Sans", serif;
 	padding-bottom: 40px;
 	font-weight: bold;
-	word-break: break-all;
+	-moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
 }
